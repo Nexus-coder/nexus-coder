@@ -4,7 +4,8 @@ I have learnt ore on data structures in c.Also learning on databases and much mo
 
 # Front-end development
 I have been working with javascript for some time.It was the first language that i learnt back in 2020 during covid and thus decided to delve more into it learning htmll and css.Finally i took up a framework
-(React) in this case and have been making projects with them ever since.
+(React) in this case and have been making projects with them ever since.As much as i am doing front-end design i am also learning how to work with data.This is because as much as making content is amazing I find 
+it more rewarding working with data and getting insights from it.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nexus-coder/github-readme-stats)
