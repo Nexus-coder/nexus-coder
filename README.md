@@ -5,7 +5,7 @@ Hello people😁😁<br>I am a computer scientist currently in university pursui
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=nexus-coder)
+![](https://komarev.com/ghpvc/?username=nexus-coder&layout=compact)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Andrew KImani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/graphicdesign2023) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Andrew KImani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nexus-coder) 
