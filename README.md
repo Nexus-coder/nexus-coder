@@ -3,6 +3,7 @@
 Hello people😁😁<br>I am a computer scientist currently in university pursuing computer science<br>I am a full stack developer of the MERN stack<br>⚡Fun fact  <br>I also do graphic design and i am good in adobe illustrator and adobe photoshop
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=nexus-coder)
 
