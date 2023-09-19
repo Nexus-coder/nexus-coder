@@ -8,7 +8,8 @@ I have been working with javascript for some time.It was the first language that
 it more rewarding working with data and getting insights from it.
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
+
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nexus-coder/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=nexus-coder)
