@@ -12,6 +12,8 @@ it more rewarding working with data and getting insights from it.
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexus-coder)](https://github.com/nexus-coder/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nexus-coder/github-readme-stats)
 
+<br/> 
+
 ![](https://komarev.com/ghpvc/?username=nexus-coder)
 
 # 💻 Tech Stack:
