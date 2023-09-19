@@ -1,5 +1,5 @@
 # Hi!I'm Andrew
-<br>I am a computer scientist currently in university pursuing my Bachelors computer science.It has really been an amazing journey thus far learning so many new things in school.
+I am a computer scientist currently in university pursuing my Bachelors computer science.It has really been an amazing journey thus far learning so many new things in school.
 I have learnt ore on data structures in c.Also learning on databases and much more to come.
 
 # Front-end development
